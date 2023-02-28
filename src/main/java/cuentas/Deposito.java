@@ -4,7 +4,7 @@ package cuentas;
  *
  * @author cmora
  */
-public class Main {
+public class Deposito {
 
     public static void main(String[] args) {
         CCuenta cuenta1;
